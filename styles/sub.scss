@@ -1,0 +1,272 @@
+body {
+  font-family: New Rocker;
+  adert-weight: 300;
+  background-color: #dbdddf;
+  color: black;
+}
+
+p {
+  font-family: Arial;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+hr {
+  height: 5px;
+  color: red;
+}
+
+.col-sm-6 text-justify {
+  font-size: 50px;
+}
+
+#footerintro {
+  font-size: 17px;
+}
+
+.logo a:hover {
+  overflow: auto;
+  padding: 75px;
+}
+
+.help {
+  width: 1550px;
+  padding-left: 60px;
+  
+}
+
+
+.padding {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#navbar {
+  padding: 20px 0;
+  background-color: #DC143C;
+
+  position: fixed center;
+}
+
+#info {
+  font-size: 18px;
+}
+
+.subtitle .Studies {
+  font-size: 20px;
+}
+
+
+footer.nb-footer {
+  background:   #DC143C;
+  border-top: 5px solid black;
+}
+footer.nb-footer .about {
+  margin: 0 auto;
+  margin-top: 40px;
+  max-width: 1170px;
+  text-align: center;
+}
+footer.nb-footer .about p {
+  font-size: 13px;
+  color: black;
+  margin-top: 20px;
+}
+footer.nb-footer .about .social-media {
+  margin-top: 15px;
+}
+footer.nb-footer .about .social-media ul li a {
+  display: inline-block;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 50%;
+  font-size: 16px;
+  color: #b78c33;
+}
+footer.nb-footer .about .social-media ul li a:hover {
+  background: 	#ffffff;
+  color: 	#ffffff;
+  border-color: 	#ffffff;
+}
+footer.nb-footer .footer-info-single {
+  margin-top: 30px;
+}
+footer.nb-footer .footer-info-single .title {
+  color: #F6D858;
+  text-transform: uppercase;
+  font-size: 16px;
+  border-left: 4px #ffffff;
+  border-bottom: 4px #ffffff;
+  border-width-left: 12px;
+  padding-left: 5px;
+  font-weight: bold;
+  
+  
+}
+footer.nb-footer .footer-info-single ul li a {
+  display: block;
+  color: #ffffff;
+  padding: 2px 0;
+}
+footer.nb-footer .footer-info-single ul li a:hover {
+  color: rgb(219, 221, 223);
+}
+footer.nb-footer .footer-info-single p {
+  font-size: 13px;
+  line-height: 20px;
+  color: black;
+}
+footer.nb-footer .copyright {
+  margin-top: 15px;
+background: #111;
+  padding: 7px 0;
+  color: rgb(219, 221, 223);
+}
+
+.linkintro {
+  font-size: 30px;
+  color: #F6D858;
+}
+
+header .jumbotron {
+  background-color: #FF7F3F;
+  border-bottom: 4px solid black;
+}
+
+body {
+  margin: 0;
+  padding: 0 0 70px 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.banner {
+  min-height: 200px;
+}
+
+.banner .row {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.banner h1 {
+  color: white;
+}
+
+/***********************************************************************
+*  OPAQUE NAVBAR SECTION
+***********************************************************************/
+
+.opaque-navbar {
+  background-color: rgba(0, 0, 0, 0.5);
+  /* Transparent = rgba(0,0,0,0) / Translucent = (0,0,0,0.5)  */
+  height: 60px;
+  border-bottom: 0px;
+  transition: background-color 0.5s ease 0s;
+}
+
+.opaque-navbar.opaque {
+  background-color: black;
+  height: 60px;
+  transition: background-color 0.5s ease 0s;
+}
+
+ul.dropdown-menu {
+  background-color: #DC143C;
+}
+
+@media (max-width: 992px) {
+  .opaque-navbar {
+    background-color: #DC143C;
+    height: 60px;
+    transition: background-color 0.5s ease 0s;
+  }
+}
+
+.intrinsic-container {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+}
+
+/* 16x9 Aspect Ratio */
+
+.intrinsic-container-16x9 {
+  padding-bottom: 56.25%;
+}
+
+/* 4x3 Aspect Ratio */
+
+.intrinsic-container-4x3 {
+  padding-bottom: 75%;
+}
+
+.intrinsic-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#footerintro{
+  color: #ffffff;
+}
+.yeet{
+
+  text-align: center;
+}
+.yeet2{
+  text-align: center;
+}
+.yeet3{
+  text-align: center;
+}
+.yeet4 {
+  text-align: center;
+}
+.yeet5{
+  text-align: center;
+}
+.yeet6{
+  text-align: center;
+}
+.yeet7{
+  text-align: center;
+}
+.yeet8{
+  text-align: center;
+}
+
+#footerintro{
+  color: #F6D858;
+  font-weight: bold;
+}
+.instagram-media{
+  text-align: center;
+}
+
+.navbar-default {
+background-color: #fff;
+border-color: #fff;
+}
+
+.nav-container {
+padding-top: 8px;
+}
+
+.navbar-custom {
+font-size: 20px;
+background-color: #FFF;
+
+}
+.img-responsive2{
+  padding-bottom: -200px;
+}
